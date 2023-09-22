@@ -1,7 +1,17 @@
 /*  your css code here. If applicable */
-table,th,td{
+table,th,tr,td{
 	border:1px solid black;
 }
+
+	
+	
+
+caption{
+	text-align:centre;
+	font-weight:bold;
+}
+	
 table{
 	background-color:yellow;
+   /* width:100%;*/
 }
